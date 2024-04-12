@@ -22,16 +22,17 @@ body {
     font-size: 32px;
     white-space: nowrap;
 }
-.navbar_logo{
-    height: 32px;
-    font-size: 32px;
-    font-weight: 600;
+.navigate_icon{
+    width: 40px;
+    height: 40px;
+    padding-top: 20px;
 }
 .profile_img{
     width: 32px;
     height: 32px;
     margin-top: 16px;
     border-radius: 50%;
+    padding-top: 0px;
 }
 .horizontal-rule {
     width: 100%;
